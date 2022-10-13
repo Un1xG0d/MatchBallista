@@ -1,6 +1,6 @@
 # MatchBallista Build Notes
 ## Video demo
-Watch on YouTube
+[Watch on YouTube](https://youtu.be/-XVhNGWtxSQ)
 
 ## Overview
 I used [Blender3D](https://www.blender.org/) to modify [gsyan’s Micro Ballista Remix](https://www.thingiverse.com/thing:1532775) model to add a firing mechanism so that a match can be launched remotely from a Raspberry Pi.
