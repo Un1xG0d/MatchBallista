@@ -1,4 +1,4 @@
-# MatchBallista Build Notes
+# MatchBallista
 ## Video demo
 [Watch on YouTube](https://youtu.be/-XVhNGWtxSQ)
 
